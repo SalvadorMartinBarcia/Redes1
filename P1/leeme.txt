@@ -1,0 +1,13 @@
+Autores: Blanca Mercado, Salvador Martín
+
+Ejercicio 1. Hecho
+Ejercicio 2. -Mostrar el numero de paquetes recibidos al pulsar control-C. Hecho
+			- Traza. Hecho
+			- Modificar fecha de los paquetes.
+Ejercicio 3.
+
+
+
+-----
+problemas con procesa_paquetes y el orden de las funciones
+no entiendo la cabecera
